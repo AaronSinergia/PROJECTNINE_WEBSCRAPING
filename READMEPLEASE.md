@@ -1,6 +1,6 @@
 Hola!
 
-He intentadoser original, usar una web distinta y en general apostar por funcionalidades que no he usado nunca e investigar.
+He intentado ser original, usar una web distinta y en general apostar por funcionalidades que no he usado nunca e investigar.
 
 He realizado un scrap de una web de venta de instrumentos musicales llamada "Thomann".
 
